@@ -20,6 +20,7 @@ Import the necessary React dependencies.
 6) Run your React.js development server to see the BMI calculator in action.
 
 ## PROGRAM:
+```
 java
 
 import React, { useState } from 'react';
@@ -63,7 +64,7 @@ function BMICalculator() {
 }
 
 export default BMICalculator;
-
+```
 
 ## OUTPUT:
 
